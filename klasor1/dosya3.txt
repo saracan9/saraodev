@@ -1,0 +1,2 @@
+ls: Bulunduğun dizindeki dosya ve klasörleri listeler.
+Örnek: ls -l

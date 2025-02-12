@@ -1,0 +1,2 @@
+git commit -m "Mesaj" : Yapılan değişiklikleri commit olarak kaydeder.
+Örnek: git commit -m "İlk commit"

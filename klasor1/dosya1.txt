@@ -1,0 +1,2 @@
+mkdir: Yeni bir dizin (klasör) oluşturmak için kullanılır.
+Örnek: mkdir yeni_klasor

@@ -1,0 +1,2 @@
+touch: Yeni, boş bir dosya oluşturmak için kullanılır.
+Örnek: touch yeni_dosya.txt
